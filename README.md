@@ -42,11 +42,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SlockAhuja/DAA_python/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/SlockAhuja/DAA_python/tree/main/0010-regular-expression-matching/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SlockAhuja/DAA_python/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/SlockAhuja/DAA_python/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/SlockAhuja/DAA_python/tree/main/0010-regular-expression-matching/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SlockAhuja/DAA_python/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0010-regular-expression-matching](https://github.com/SlockAhuja/DAA_python/tree/main/0010-regular-expression-matching/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
