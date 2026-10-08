@@ -5,6 +5,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SlockAhuja/DAA_python/tree/main/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/SlockAhuja/DAA_python/tree/main/0023-merge-k-sorted-lists/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -30,4 +31,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SlockAhuja/DAA_python/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SlockAhuja/DAA_python/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/SlockAhuja/DAA_python/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
