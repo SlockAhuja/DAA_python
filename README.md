@@ -53,6 +53,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SlockAhuja/DAA_python/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/SlockAhuja/DAA_python/tree/main/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/SlockAhuja/DAA_python/tree/main/0014-longest-common-prefix/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/SlockAhuja/DAA_python/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SlockAhuja/DAA_python/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/SlockAhuja/DAA_python/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
