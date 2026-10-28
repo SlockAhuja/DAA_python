@@ -9,6 +9,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/SlockAhuja/DAA_python/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/SlockAhuja/DAA_python/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 | [0001-two-sum](https://github.com/SlockAhuja/DAA_python/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SlockAhuja/DAA_python/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/SlockAhuja/DAA_python/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SlockAhuja/DAA_python/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SlockAhuja/DAA_python/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SlockAhuja/DAA_python/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Dynamic Programming
@@ -109,4 +112,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
