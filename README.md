@@ -12,6 +12,7 @@
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
@@ -56,6 +57,7 @@
 | [0010-regular-expression-matching](https://github.com/SlockAhuja/DAA_python/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/SlockAhuja/DAA_python/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +80,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SlockAhuja/DAA_python/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SlockAhuja/DAA_python/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Dynamic Programming
@@ -118,4 +121,8 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
