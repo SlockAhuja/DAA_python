@@ -11,6 +11,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/SlockAhuja/DAA_python/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/SlockAhuja/DAA_python/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -43,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SlockAhuja/DAA_python/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/SlockAhuja/DAA_python/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/SlockAhuja/DAA_python/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -80,6 +82,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SlockAhuja/DAA_python/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/SlockAhuja/DAA_python/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SlockAhuja/DAA_python/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SlockAhuja/DAA_python/tree/main/1768-merge-strings-alternately/) | Easy |
