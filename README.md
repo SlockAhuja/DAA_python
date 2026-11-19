@@ -9,6 +9,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SlockAhuja/DAA_python/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/SlockAhuja/DAA_python/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/SlockAhuja/DAA_python/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SlockAhuja/DAA_python/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -81,6 +82,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SlockAhuja/DAA_python/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SlockAhuja/DAA_python/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SlockAhuja/DAA_python/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SlockAhuja/DAA_python/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/SlockAhuja/DAA_python/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/SlockAhuja/DAA_python/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
